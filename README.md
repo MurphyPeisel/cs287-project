@@ -5,6 +5,5 @@ Here's the repo for our project! I have a file *287_project_murphy.ipynb* which 
 - [x] First meeting (3/28/2023)
 - [x] Come up with discrete tasks
 - [x] Create workfile for Leah
-- [] Clean data
-- - [] Remove undocumented columns
-- - [] Aggregate columns as necessary
+- [] Remove undocumented columns
+- [] Aggregate columns as necessary
